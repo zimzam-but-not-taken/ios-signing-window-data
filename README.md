@@ -22,7 +22,7 @@ stops. **A window that closes unusually fast can mean Apple is hurrying to shut 
 door,** often because the new release fixes a serious, possibly exploited,
 vulnerability.
 
-If you're **marinating** a device on an older version, a fast close on that version
+If you're **marinating**, a fast close on the version you're on
 is a hint there may be something worth digging into. Check what the replacement
 build fixed. That could let you re-discover the CVE and look for bypasses of the
 fix, or point to something Apple fixed internally without disclosing it. That last
