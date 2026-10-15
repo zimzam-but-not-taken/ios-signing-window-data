@@ -8,9 +8,29 @@ Sites like ipsw.me show what is signed *right now*. They don't keep a history of
 how long each window lasted, or whether Apple closed one faster or slower than usual.
 This repo does.
 
-The data updates automatically. A tracker checks every 5 minutes, and a new commit
-lands only when something actually changes (a new release, a window opening or
-closing, and so on).
+The data updates automatically. A tracker checks Apple every 5 minutes, and this
+repo gets a commit once a day if anything changed (a new release, a window opening
+or closing, and so on).
+
+**Live alerts:** follow [@zimzam___](https://x.com/zimzam___) on X for new releases,
+signing-window starts and closes as they happen.
+
+## Why track this?
+
+After a new iOS release, Apple keeps signing the previous version for a while, then
+stops. **A window that closes unusually fast can mean Apple is hurrying to shut a
+door,** often because the new release fixes a serious, possibly exploited,
+vulnerability.
+
+If you're **marinating** a device on an older version, a fast close on that version
+is a hint there may be something worth digging into. Check what the replacement
+build fixed. That could let you re-discover the CVE and look for bypasses of the
+fix, or point to something Apple fixed internally without disclosing it. That last
+part is speculative.
+
+Each closed window is compared against the average for its OS (`delta_days`;
+negative = faster than usual). Treat it as a hint, not proof: Apple doesn't say why
+it stops signing, and windows can be short for routine reasons.
 
 ## Files
 
