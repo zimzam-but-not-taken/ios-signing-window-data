@@ -200,6 +200,14 @@
     "first_seen": "2026-10-13T03:45:49.312857+00:00"
   },
   {
+    "os": "iOS",
+    "version": "27.1",
+    "build": "24A94425",
+    "released": "2026-10-12",
+    "kind": "upcoming",
+    "first_seen": "2026-10-15T14:12:16.436+00:00"
+  },
+  {
     "os": "iPadOS",
     "version": "15.8.8",
     "build": "19H422",
