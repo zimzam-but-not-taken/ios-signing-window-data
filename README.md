@@ -17,7 +17,7 @@ closing, and so on).
 | File | What it is |
 |------|------------|
 | `signing.json` | One row per OS build: signing window start, close, duration, and how it compares to the running average |
-| `seen_updates.json` | Every iOS / iPadOS / watchOS / tvOS release seen, with its release date and major/minor/patch classification |
+| `seen_updates.json` | Every iOS / iPadOS / watchOS / tvOS release seen, with its release date, when the tracker first saw it, and its `kind` (see below) |
 | `state.db` | The same data as a SQLite database |
 
 The git history is the timeline: `git log -p signing.json` shows each window opening
@@ -41,6 +41,13 @@ and closing as it happened.
 - A build only counts as closed after **two NOT-signed answers in a row**. The close
   time is the first of the two. Network or tool errors count as "unknown" and never
   change the state.
+
+## `seen_updates.json` kinds
+
+| `kind` | Meaning |
+|--------|---------|
+| `major` / `minor` / `patch` | A public release: `27.0` / `27.1` / `27.0.1` |
+| `upcoming` | A pre-listed build: firmware AppleDB lists for hardware that hasn't launched yet (e.g. iOS 27.1 for the iPhone Duo, `iPhone19,4`), or a build dated in the future. `released` is AppleDB's date for the build, not the hardware launch |
 
 ## `signing.json` fields
 
