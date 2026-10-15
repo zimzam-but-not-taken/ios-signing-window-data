@@ -1,0 +1,1018 @@
+[
+  {
+    "os": "iOS",
+    "version": "15.8.7",
+    "build": "19H411",
+    "released": "2026-03-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.334805+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "15.8.8",
+    "build": "19H422",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.239570+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "16.7.15",
+    "build": "20H380",
+    "released": "2026-03-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.338492+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "16.7.16",
+    "build": "20H392",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.244366+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "18.7.10",
+    "build": "22H374",
+    "released": "2026-08-17",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.200652+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "18.7.7",
+    "build": "22H333",
+    "released": "2026-03-24",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.318239+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "18.7.7",
+    "build": "22H340",
+    "released": "2026-04-01",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.309953+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "18.7.8",
+    "build": "22H352",
+    "released": "2026-04-22",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.285806+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "18.7.9",
+    "build": "22H355",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.249145+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.4",
+    "build": "23E246",
+    "released": "2026-03-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.322870+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.4.1",
+    "build": "23E254",
+    "released": "2026-04-08",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.301606+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.4.2",
+    "build": "23E261",
+    "released": "2026-04-22",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.289785+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.5",
+    "build": "23F77",
+    "released": "2026-05-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.254042+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.5.1",
+    "build": "23F81",
+    "released": "2026-06-01",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.235871+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.5.2",
+    "build": "23F84",
+    "released": "2026-06-29",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.226604+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.6",
+    "build": "23G71",
+    "released": "2026-07-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.216372+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.6.1",
+    "build": "23G83",
+    "released": "2026-08-17",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.204381+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.6.2",
+    "build": "23G90",
+    "released": "2026-09-08",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.192645+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.7",
+    "build": "23H24",
+    "released": "2026-09-14",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.177178+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "26.7.1",
+    "build": "23H30",
+    "released": "2026-09-28",
+    "kind": "patch",
+    "first_seen": "2026-09-29T05:42:09.847144+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "27.0",
+    "build": "24A427",
+    "released": "2026-09-18",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.163116+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "27.0",
+    "build": "24A437",
+    "released": "2026-09-14",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.181000+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "27.0",
+    "build": "24A8428",
+    "released": "2026-09-18",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.172452+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "27.0.1",
+    "build": "24A446",
+    "released": "2026-09-28",
+    "kind": "patch",
+    "first_seen": "2026-09-29T05:42:10.257172+00:00"
+  },
+  {
+    "os": "iOS",
+    "version": "27.1",
+    "build": "24A94232",
+    "released": "2026-10-23",
+    "kind": "upcoming",
+    "first_seen": "2026-10-13T03:45:49.312857+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "15.8.8",
+    "build": "19H422",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.261599+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "16.7.16",
+    "build": "20H392",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.265796+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "17.7.11",
+    "build": "21H461",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.269795+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "18.7.10",
+    "build": "22H374",
+    "released": "2026-08-17",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.208787+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "18.7.7",
+    "build": "22H333",
+    "released": "2026-03-24",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.326551+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "18.7.7",
+    "build": "22H340",
+    "released": "2026-04-01",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.313589+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "18.7.8",
+    "build": "22H352",
+    "released": "2026-04-22",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.293749+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "18.7.9",
+    "build": "22H355",
+    "released": "2026-05-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.274324+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.4",
+    "build": "23E246",
+    "released": "2026-03-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.330418+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.4.1",
+    "build": "23E254",
+    "released": "2026-04-08",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.305489+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.4.2",
+    "build": "23E261",
+    "released": "2026-04-22",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.297627+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.5",
+    "build": "23F77",
+    "released": "2026-05-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.281318+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.5.2",
+    "build": "23F84",
+    "released": "2026-06-29",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.231248+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.6",
+    "build": "23G71",
+    "released": "2026-07-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.220909+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.6.1",
+    "build": "23G83",
+    "released": "2026-08-17",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.212708+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.6.2",
+    "build": "23G90",
+    "released": "2026-09-08",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.196265+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.7",
+    "build": "23H24",
+    "released": "2026-09-14",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.184980+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "26.7.1",
+    "build": "23H30",
+    "released": "2026-09-28",
+    "kind": "patch",
+    "first_seen": "2026-09-29T05:42:10.666241+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "27.0",
+    "build": "24A437",
+    "released": "2026-09-14",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.188733+00:00"
+  },
+  {
+    "os": "iPadOS",
+    "version": "27.0.1",
+    "build": "24A446",
+    "released": "2026-09-28",
+    "kind": "patch",
+    "first_seen": "2026-09-29T05:42:11.076081+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.0",
+    "build": "20J8378",
+    "released": "2022-11-04",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:55.563482+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.1",
+    "build": "20K71",
+    "released": "2022-10-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.568093+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.1.1",
+    "build": "20K80",
+    "released": "2022-11-16",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.559757+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.2",
+    "build": "20K362",
+    "released": "2022-12-13",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.555202+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.3",
+    "build": "20K650",
+    "released": "2023-01-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.550451+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.3.1",
+    "build": "20K661",
+    "released": "2023-02-06",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.545037+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.3.2",
+    "build": "20K672",
+    "released": "2023-02-13",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.540954+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.3.3",
+    "build": "20K680",
+    "released": "2023-03-06",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.536475+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.4",
+    "build": "20L497",
+    "released": "2023-03-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.532777+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.4.1",
+    "build": "20L498",
+    "released": "2023-04-12",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.528742+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.5",
+    "build": "20L563",
+    "released": "2023-05-18",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.524153+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "16.6",
+    "build": "20M73",
+    "released": "2023-07-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.519590+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.0",
+    "build": "21J354",
+    "released": "2023-09-18",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:55.514094+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.1",
+    "build": "21K69",
+    "released": "2023-10-25",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.509103+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.2",
+    "build": "21K365",
+    "released": "2023-12-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.504903+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.3",
+    "build": "21K646",
+    "released": "2024-01-22",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.500549+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.4",
+    "build": "21L227",
+    "released": "2024-03-07",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.493955+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.5",
+    "build": "21L569",
+    "released": "2024-05-13",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.487765+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.5.1",
+    "build": "21L580",
+    "released": "2024-05-21",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.483675+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.6",
+    "build": "21M71",
+    "released": "2024-07-29",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.479974+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "17.6.1",
+    "build": "21M80",
+    "released": "2024-08-19",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.475493+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.0",
+    "build": "22J357",
+    "released": "2024-09-16",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:55.471840+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.1",
+    "build": "22J580",
+    "released": "2024-10-28",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.467811+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.2",
+    "build": "22K155",
+    "released": "2024-12-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.463572+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.2.1",
+    "build": "22K160",
+    "released": "2025-01-16",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.460038+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.3",
+    "build": "22K557",
+    "released": "2025-01-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.455410+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.3.1",
+    "build": "22K561",
+    "released": "2025-03-11",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.451782+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.4",
+    "build": "22L255",
+    "released": "2025-03-31",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.448073+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.4.1",
+    "build": "22L261",
+    "released": "2025-04-16",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.443621+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.5",
+    "build": "22L572",
+    "released": "2025-05-12",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.438134+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "18.6",
+    "build": "22M84",
+    "released": "2025-07-29",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.433443+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.0",
+    "build": "23J353",
+    "released": "2025-09-15",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:55.428622+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.0.1",
+    "build": "23J362",
+    "released": "2025-09-29",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:55.422911+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.1",
+    "build": "23J582",
+    "released": "2025-11-03",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.418556+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.2",
+    "build": "23K54",
+    "released": "2025-12-12",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.414053+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.3",
+    "build": "23K620",
+    "released": "2026-02-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.409236+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.4",
+    "build": "23L243",
+    "released": "2026-03-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.404370+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.5",
+    "build": "23L471",
+    "released": "2026-05-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.399463+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "26.6",
+    "build": "23L773",
+    "released": "2026-07-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:55.394414+00:00"
+  },
+  {
+    "os": "tvOS",
+    "version": "27.0",
+    "build": "24J361",
+    "released": "2026-09-14",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:55.385061+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.0.2",
+    "build": "21R371",
+    "released": "2023-09-26",
+    "kind": "patch",
+    "first_seen": "2026-10-13T03:30:18.353162+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.1",
+    "build": "21S67",
+    "released": "2023-10-25",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.996676+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.1.1",
+    "build": "21S71",
+    "released": "2023-11-07",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.992839+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.2",
+    "build": "21S364",
+    "released": "2023-12-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.988867+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.3",
+    "build": "21S644",
+    "released": "2024-01-22",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.984871+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.3.1",
+    "build": "21S651",
+    "released": "2024-02-08",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.979907+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.4",
+    "build": "21T216",
+    "released": "2024-03-07",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.973817+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.5",
+    "build": "21T576",
+    "released": "2024-05-13",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.967759+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.6",
+    "build": "21U577",
+    "released": "2024-07-29",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.964023+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.6.1",
+    "build": "21U580",
+    "released": "2024-08-19",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.958331+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "10.6.2",
+    "build": "21U594",
+    "released": "2026-02-02",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.875841+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.0",
+    "build": "22R349",
+    "released": "2024-09-16",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.952629+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.0.1",
+    "build": "22R361",
+    "released": "2024-10-03",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.948941+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.1",
+    "build": "22R585",
+    "released": "2024-10-28",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.944383+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.2",
+    "build": "22S101",
+    "released": "2024-12-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.938177+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.3",
+    "build": "22S555",
+    "released": "2025-01-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.933431+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.3.1",
+    "build": "22S560",
+    "released": "2025-02-10",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.929638+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.4",
+    "build": "22T251",
+    "released": "2025-04-01",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.925278+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.5",
+    "build": "22T572",
+    "released": "2025-05-12",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.921678+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.6",
+    "build": "22U84",
+    "released": "2025-07-29",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.917956+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.6.1",
+    "build": "22U90",
+    "released": "2025-08-14",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.913293+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "11.6.2",
+    "build": "22U95",
+    "released": "2026-02-05",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.861614+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.0",
+    "build": "23R350",
+    "released": "2025-09-19",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.899463+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.0",
+    "build": "23R352",
+    "released": "2025-09-15",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.903912+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.0.1",
+    "build": "23R8352",
+    "released": "2025-09-15",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.907563+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.0.2",
+    "build": "23R362",
+    "released": "2025-09-29",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.891538+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.0.2",
+    "build": "23R8362",
+    "released": "2025-09-29",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.895918+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.1",
+    "build": "23S37",
+    "released": "2025-11-03",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.887896+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.2",
+    "build": "23S303",
+    "released": "2025-12-12",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.883510+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.2.1",
+    "build": "23S314",
+    "released": "2026-01-26",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.879660+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.3",
+    "build": "23S620",
+    "released": "2026-02-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.857852+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.4",
+    "build": "23T240",
+    "released": "2026-03-24",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.853494+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.5",
+    "build": "23T570",
+    "released": "2026-05-11",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.841913+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "26.6",
+    "build": "23U67",
+    "released": "2026-07-27",
+    "kind": "minor",
+    "first_seen": "2026-09-25T05:56:54.837565+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "27.0",
+    "build": "24R359",
+    "released": "2026-09-18",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.829640+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "27.0",
+    "build": "24R364",
+    "released": "2026-09-14",
+    "kind": "major",
+    "first_seen": "2026-09-25T05:56:54.833765+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "27.0.1",
+    "build": "24R365",
+    "released": "2026-09-23",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.819269+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "5.3.10",
+    "build": "16U711",
+    "released": "2026-03-24",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.845827+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "6.3.1",
+    "build": "17U224",
+    "released": "2026-02-02",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.866174+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "8.8.2",
+    "build": "19U526",
+    "released": "2026-03-24",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.849803+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "9.6.3",
+    "build": "20U502",
+    "released": "2023-09-21",
+    "kind": "patch",
+    "first_seen": "2026-10-13T03:30:19.345420+00:00"
+  },
+  {
+    "os": "watchOS",
+    "version": "9.6.4",
+    "build": "20U512",
+    "released": "2026-02-02",
+    "kind": "patch",
+    "first_seen": "2026-09-25T05:56:54.872022+00:00"
+  }
+]
