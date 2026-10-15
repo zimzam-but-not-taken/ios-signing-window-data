@@ -37,7 +37,7 @@ it stops signing, and windows can be short for routine reasons.
 | File | What it is |
 |------|------------|
 | `signing.json` | One row per OS build: signing window start, close, duration, and how it compares to the running average |
-| `seen_updates.json` | Every iOS / iPadOS / watchOS / tvOS release seen, with its release date, when the tracker first saw it, and its `kind` (see below) |
+| `seen_updates.json` | Every iOS / iPadOS / watchOS release seen (a few early tvOS rows are from before tvOS was dropped), with its release date, when the tracker first saw it, and its `kind` (see below) |
 | `state.db` | The same data as a SQLite database |
 
 The git history is the timeline: `git log -p signing.json` shows each window opening
